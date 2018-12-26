@@ -13,3 +13,6 @@
 
 ## GitHubの統計情報
 - https://octoverse.github.com/
+
+## ECMAScriptの対応表
+- http://kangax.github.io/compat-table/es6/
