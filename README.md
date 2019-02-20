@@ -1,4 +1,7 @@
 # Ranking
+## シングルボードコンピューター
+- https://www.hackerboards.com/home.php
+
 ## 静的サイトジェネレーター
 - https://www.staticgen.com
 
