@@ -1,4 +1,7 @@
 # Ranking
+## VPS
+- https://vpscomp.com/servers
+
 ## シングルボードコンピューター
 - https://www.hackerboards.com/home.php
 
