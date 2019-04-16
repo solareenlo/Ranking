@@ -19,6 +19,7 @@
 
 ## GitHubのスター数
 - https://github.com/search?o=desc&q=stars%3A%3E1&s=stars&type=Repositories&utf8=%E2%9C%93
+- https://github.com/search?l=C%2B%2B&q=stars%3A%3E10000&type=Repositories
 
 ## GitHubの統計情報
 - https://octoverse.github.com/
